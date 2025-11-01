@@ -25,4 +25,5 @@ abstract: Graph Neural Networks (GNNs) have proven effective for learning from g
 links:
 - name: URL
   url: https://proceedings.mlr.press/v267/zhang25ar.html
+featured: True
 ---

@@ -1,10 +1,10 @@
 ---
-title: Recent & Upcoming Talks
+title: Recent Talks
 cms_exclude: true
 #url: talk
 
 # View
-view: compact
+view: citation
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
