@@ -70,7 +70,7 @@ sections:
         folders:
           - events
     design:
-      view: card
+      view: list
   # - block: collection
   #   id: news
   #   content:
