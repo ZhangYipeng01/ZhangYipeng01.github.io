@@ -53,28 +53,28 @@ education:
     institution: Nanyang Technological University (NTU), Singapore
     date_start: 2022-08-01
     date_end: ''
-    description: |
+    summary: |
       Research on topological data analysis and topological deep learning under Prof. Kelin Xia.
 
   - area: M.Sc. in Mathematics
     institution: Fudan University, Shanghai, China
     date_start: 2019-09-01
     date_end: 2022-06-30
-    description: |
+    summary: |
       Research on toric topology under Prof. Zhi Lv.
 
   - area: B.Sc. in Physics
     institution: Nankai University, Tianjin, China
     date_start: 2015-09-01
     date_end: 2019-06-30
-    description: |
+    summary: |
       Major in theoretical physics.
 
   - area: B.Sc. (2nd) in Mathematics & Applied Mathematics
     institution: Nankai University, Tianjin, China
     date_start: 2016-09-01
     date_end: 2019-06-30
-    description: |
+    summary: |
       Second bachelor’s degree in mathematics and applied mathematics.
 
 # work:
