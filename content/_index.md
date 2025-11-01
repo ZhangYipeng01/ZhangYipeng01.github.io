@@ -72,6 +72,28 @@ sections:
           - events
     design:
       view: citation
+  - block: markdown
+    id: contact
+    content:
+      title: '📫 Contact'
+      subtitle: ''
+      text: |-
+        **Email**  
+        yipeng001@e.ntu.edu.sg  
+
+        **Address**  
+        School of Physical & Mathematical Sciences (SPMS)  
+        Nanyang Technological University (NTU)  
+        SPMS-MAS-04-05  
+        21 Nanyang Link, Singapore 637371  
+
+        **Profiles**  
+        - GitHub: [https://github.com/ZhangYipeng01](https://github.com/ZhangYipeng01)  
+        - Google Scholar: [https://scholar.google.com/citations?user=qAlMoOoAAAAJ&hl=en&oi=sra](https://scholar.google.com/citations?user=qAlMoOoAAAAJ&hl=en&oi=sra)  
+        - ORCID: [https://orcid.org/0009-0009-2895-0220](https://orcid.org/0009-0009-2895-0220)
+    design:
+      columns: '1'
+
   # - block: collection
   #   id: news
   #   content:
