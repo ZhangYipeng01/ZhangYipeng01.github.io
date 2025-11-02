@@ -163,8 +163,12 @@ education:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Yipeng Zhang is a Ph.D. candidate in Mathematics at Nanyang Technological University (NTU), Singapore.  
-His research interests center on **Topological Data Analysis (TDA)**, **Topological Deep Learning (TDL)**, and **Mathematical AI**—the mathematical construction and analysis of machine learning architectures.  
+**Welcome to my homepage!**
 
-His current work explores the use of fundamental topological concepts, particularly **Multi-Cover**, to design a unified family of AI models, including fingerprint-based representations, graph pooling frameworks, and topological deep learning architectures.  
-He is broadly interested in the mathematical foundations of AI and how advanced concepts such as sheaf theory, topos theory, and discrete homotopy theory can provide principled frameworks for learning, representation, and reasoning in artificial intelligence.
+I am **Zhang Yipeng**, a Ph.D. candidate in Mathematics at **Nanyang Technological University (NTU)**, Singapore.  
+My research interests lie broadly in **Topological Data Analysis (TDA)**, **Topological Deep Learning (TDL)**, and **Mathematical AI**—the mathematical construction and analysis of machine learning architectures.  
+
+I have developed a series of machine learning and deep learning models inspired by topological and computational-geometric ideas, such as **Multi-Cover**, and applied them to real-world datasets.  
+Recently, my interests have become broader: I am fascinated by how various mathematical tools—such as **sheaf theory**, **discrete homotopy theory**, and **topos theory**—might interact with modern deep learning.  
+
+I am passionate about building a rigorous mathematical foundation for artificial intelligence, exploring how ideas from mathematics can guide the next generation of interpretable and principled learning systems.
