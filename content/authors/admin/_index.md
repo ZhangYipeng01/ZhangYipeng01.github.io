@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhang Yipeng
+title: "Zhang Yipeng"
 
 # Name pronunciation (optional)
 name_pronunciation: ''

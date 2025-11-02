@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Academic CV — Zhang Yipeng'
+title: "Academic CV — Zhang Yipeng"
 #date: 2025-11-1
 type: landing
 
