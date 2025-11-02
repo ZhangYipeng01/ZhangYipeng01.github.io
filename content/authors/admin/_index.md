@@ -165,10 +165,12 @@ education:
 
 **Welcome to my homepage!**
 
-I am **Zhang Yipeng**, a Ph.D. candidate in Mathematics at **Nanyang Technological University (NTU)**, Singapore.  
+I am **Zhang Yipeng**, a Ph.D. candidate in Mathematics at **Nanyang Technological University (NTU)**, Singapore.
+
 My research interests lie broadly in **Topological Data Analysis (TDA)**, **Topological Deep Learning (TDL)**, and **Mathematical AI**—the mathematical construction and analysis of machine learning architectures.  
 
-I have developed a series of machine learning and deep learning models inspired by topological and computational-geometric ideas, such as **Multi-Cover**, and applied them to real-world datasets.  
+I have developed a series of machine learning and deep learning models inspired by topological and computational-geometric ideas, such as **Multi-Cover**, and applied them to real-world datasets.
+
 Recently, my interests have become broader: I am fascinated by how various mathematical tools—such as **sheaf theory**, **discrete homotopy theory**, and **topos theory**—might interact with modern deep learning.  
 
-I am passionate about building a rigorous mathematical foundation for artificial intelligence, exploring how ideas from mathematics can guide the next generation of interpretable and principled learning systems.
+I am passionate about building a mathematical foundation for artificial intelligence, exploring how ideas from mathematics can guide the next generation of interpretable and principled learning systems.
